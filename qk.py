@@ -150,7 +150,7 @@ if __name__ == "__main__":
       login(stu_account,stu_password_md5,15)
     if g_loginstate==False:
       print("登录失败，正在尝试重新登录...")
-     # login(stu_account,stu_password_md5,10)
+      login(stu_account,stu_password_md5,10)
     if nowtime>=g_starttimestamp:
       print("到达选课时间,开始选课\n")
       select_lessons(15)
