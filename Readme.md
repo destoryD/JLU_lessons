@@ -1,7 +1,7 @@
 # JLU_lessons
 Select Lessons Program for JLU
 
-JLU吉林大学选课程序 Wrote by Ruinous
+JLU吉林大学选课程序 written by Ruinous
 
 Update：2019/12/19 17:00
 
